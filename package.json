@@ -1,0 +1,31 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "learning hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-me/hapi.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "Arun SUrendharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-me/hapi/issues"
+  },
+  "homepage": "https://github.com/arun-me/hapi#readme",
+  "dependencies": {
+    "@hapi/bell": "^12.2.0",
+    "@hapi/boom": "^9.1.2",
+    "@hapi/hapi": "^20.1.2",
+    "@hapi/inert": "^6.0.3",
+    "@hapi/vision": "^6.0.1",
+    "joi": "^17.4.0",
+    "mongoose": "^5.12.2"
+  }
+}
